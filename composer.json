@@ -1,0 +1,15 @@
+{
+    "name": "dev3ag/agcontactform",
+    "autoload": {
+        "psr-4": {
+            "Dev3ag\\Agcontactform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "João",
+            "email": ""
+        }
+    ],
+    "require": {}
+}
